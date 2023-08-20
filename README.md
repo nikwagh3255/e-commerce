@@ -3,7 +3,7 @@ Fashion Cube-Ecommerce Application
 
 front-end: Reactjs, Redux, Axios, Sass, react-bootstrap
 
-Live Demo
+Live Demo : https://quintuslabs.github.io/fashion-cube/
 
 This project is created using:
  Monorepo
